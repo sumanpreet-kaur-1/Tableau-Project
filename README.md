@@ -11,7 +11,7 @@ Dataset: Education Level (CSV) , Employee (CSV), Performance Rating (CSV)
 Source: [DataCamp] (https://app.datacamp.com/learn/courses/case-study-hr-analytics-in-tableau)
 
 ## Key Insights
-- Atlas Labs has an overall attrition rate is 16.1% and a total of 237 employees have left the company.
+- Atlas Labs has an overall attrition rate of 16.1% and a total of 237 employees have left the company.
 - Employees who frequently travel as part of their role have the highest attrition rate despite making up only 19% of total hires.
 - Human resources recruiters and sales representatives have a significantly high turnover compared to other roles.
  
